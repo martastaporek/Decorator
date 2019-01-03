@@ -1,11 +1,11 @@
 package inheritence;
 
-public abstract class Pizza {
+abstract class Pizza {
 
   private String ingredients;
   private double price;
 
-  public Pizza(String ingredients, double price) {
+  Pizza(String ingredients, double price) {
     this.ingredients = ingredients;
     this.price = price;
   }
