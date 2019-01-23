@@ -1,6 +1,6 @@
 # Decorator
 
-W folderze inheritence znajdują się klasy z przykłodowym "złym rozwiązaniem".
+W folderze inheritence znajdują się klasy z przykładowym "złym rozwiązaniem".
 
 Zadanie
 
