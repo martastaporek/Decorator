@@ -1,5 +1,8 @@
 package decorator;
 
+/**
+ * Abstrakcyjny dodatek do pizzy
+ */
 public abstract class ToppingDecorator implements Pizza {
 
   private Pizza basePizza;

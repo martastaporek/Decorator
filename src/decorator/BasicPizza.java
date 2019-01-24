@@ -1,7 +1,7 @@
 package decorator;
 
-/*
-** Zwykła pizza tylko z sosem pomodorowym
+/**
+* Zwykła pizza tylko z sosem pomidorowym
  */
 public class BasicPizza implements Pizza {
 

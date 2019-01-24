@@ -1,5 +1,8 @@
 package decorator;
 
+/**
+ *Dodatek do pizzy - topping
+ */
 public class Cheese extends ToppingDecorator {
 
   private String ingredient = "ser, ";
